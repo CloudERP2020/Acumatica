@@ -23,6 +23,17 @@ street, city, state and zipcode.
 2. Cuts down your shipping and mailing expenses
 3. Improves customer relationship management - CRM
 
+# Screenshots
+Acumatica Lead Screen
+(USPS-Validation-1.png)
+
+Lead Address Validation
+(USPS-Validation-2.png)
+
+Updated Address 
+(USPS-Validation-3.png)
+
+
 # Everyone Needs Address Validation
 This project was designed and developed by InfoSourcing Inc www.Info-Sourcing.com for Acumatica Hackathon 2017 Summit and we had good time with Acumatica folks and partners brainstorming and putting together this solution along with Nayan Mansinha
 
